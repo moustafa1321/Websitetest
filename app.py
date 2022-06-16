@@ -44,7 +44,7 @@ with st.container():
     with left_column:
         st.header("What I do")
         st.write("##")
-        st.write()
+        st.write("I like to program since it's fun + this website took me at least 3 hours to make.")
         
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
