@@ -35,7 +35,7 @@ with st.container():
     st.write(
         "I am passionate about finding ways to use Python and Https to be more efficient and effective."
     )
-    st.write("i feel so tired it's 2 in the night")
+    st.write("")
 
 # ---- WHAT I DO ----
 with st.container():
@@ -45,7 +45,8 @@ with st.container():
         st.header("What I do")
         st.write("##")
         st.write("I like to program since it's fun + this website took me at least 3 hours to make.")
-        
+        st.write("i'm so tired.")
+        st.write("Hello Tom :wave:")
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
 
