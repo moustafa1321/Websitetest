@@ -35,7 +35,7 @@ with st.container():
     st.write(
         "I am passionate about finding ways to use Python and Https to be more efficient and effective."
     )
-    st.write("[Learn More >](https://pythonandvba.com)")
+    st.write("i feel so tired it's 2 in the night")
 
 # ---- WHAT I DO ----
 with st.container():
