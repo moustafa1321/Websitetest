@@ -44,9 +44,9 @@ with st.container():
     with left_column:
         st.header("What I do")
         st.write("##")
-        st.write("I like to program since it's fun + this website took me at least 3 hours to make.")
-        st.write("i'm so tired.")
-        st.write("Hello Tom :wave:")
+        st.write("I like to program since it's fun.")
+        st.write("")
+        st.write("")
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
 
@@ -55,6 +55,8 @@ with st.container():
     st.write("---")
     st.header("My Projects")
     st.write("##")
+    st.write("My first project was a Discord Bot")
+    st.write("My second project is this website")
     
 # ---- CONTACT ----
 with st.container():
