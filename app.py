@@ -37,7 +37,7 @@ with st.container():
         "I am passionate about finding ways to use Python and Https to be more efficient and effective."
     )
     st.write("")
-    st.markdown("[Blog...](https://share.streamlit.io/moustafa1321/websitetest2/main/app.py)")
+    st.markdown("[To-Do List.e](https://share.streamlit.io/moustafa1321/websitetest2/main/app.py)")
 
 # ---- WHAT I DO ----
 with st.container():
