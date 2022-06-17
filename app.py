@@ -31,7 +31,7 @@ img_lottie_animation = Image.open("images/yt_lottie_animation.png")
 # https://assets5.lottiefiles.com/packages/lf20_fcfjwiyb.json
 # ---- HEADER SECTION ----
 with st.container():
-    st.subheader("Hi, I am Mustafa :wave:")
+    st.subheader("Hi, I am Fredrick :wave:")
     st.title("A Programmer From Germany")
     st.write(
         "I am passionate about finding ways to use Python and Https to be more efficient and effective."
